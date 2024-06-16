@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [The Task](#the-task)
-- [Example](#example)
 - [Features](#features)
 - [Installation](#installation)
 - [Contact](#contact)
