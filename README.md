@@ -1,5 +1,10 @@
 # 💻 Morse Code Decoder
 
+I invite you to visit my resume website:
+[Click here](https://resume-achiya-tzuriel.netlify.app/)
+
+The algorithm was tested and scored: ⭐⭐⭐⭐⭐
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [The Task](#the-task)
@@ -33,12 +38,17 @@ To use the Morse code decoder, simply clone this repository and include the func
 ```bash
 git clone https://github.com/achiyat/algorithms-morse.git
 ```
+
 ## 📞 Contact
-📧 Email - [achiya308@gmail.com](mailto:achiya308@gmail.com)
 
-🔗 linkedin - [https://www.linkedin.com/in/achiya-tzuriel/](https://www.linkedin.com/in/achiya-tzuriel/)
+📧 **Email:** [achiya308@gmail.com](mailto:achiya308@gmail.com)
 
-🔗 Project Link: [https://github.com/achiyat/algorithms-morse](https://github.com/achiyat/algorithms-morse)
+🔗 **LinkedIn:** [Achiya Tzuriel](https://www.linkedin.com/in/achiya-tzuriel/)
+
+🔗 **Personal website Link:** [Personal website](https://resume-achiya-tzuriel.netlify.app/)
+
+🔗 Project Link: [algorithms-morse](https://github.com/achiyat/algorithms-morse)
 
 Thanks for visiting my GitHub profile! 😊
-Achiya Tzuriel 
+
+**Achiya Tzuriel**
